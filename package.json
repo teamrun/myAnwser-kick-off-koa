@@ -1,0 +1,25 @@
+{
+  "name": "anwser-kickoffkoa",
+  "version": "1.0.0",
+  "description": "my anwsers to kick-off-koa workshop",
+  "main": "hello-koa.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "anwser",
+    "workshop",
+    "koa",
+    "kickoff"
+  ],
+  "author": "teamrun",
+  "license": "mit",
+  "dependencies": {
+    "bragi": "0.0.11",
+    "co-views": "^0.2.0",
+    "ejs": "^1.0.0",
+    "koa": "^0.12.2",
+    "koa-bodyparser": "^1.0.1",
+    "koa-session": "^2.0.0"
+  }
+}
